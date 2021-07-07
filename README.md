@@ -30,7 +30,8 @@ this page has four buttons If You Want Connect the control base
  
  <img width="1680" alt="Screen Shot 2021-07-06 at 7 49 19 PM" src="https://user-images.githubusercontent.com/74681807/124638811-13952680-de94-11eb-98da-69ab0dd4b178.png">
  
- if click any direction for example (click Backword then the base move and 
+ if click any direction for example (click Backword then send a direction to database and move )
+ 
  
  
 
