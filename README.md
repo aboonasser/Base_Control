@@ -32,6 +32,23 @@ this page has four buttons If You Want Connect the control base
  
  if click any direction for example (click Backword then send a direction to database and move )
  
+ this page send a direction to database
  
+ <img width="1680" alt="Screen Shot 2021-07-07 at 7 36 38 PM" src="https://user-images.githubusercontent.com/74681807/124797269-c3cd6280-df5a-11eb-958f-07b12ddb5ed7.png">
+
+ then open page php information username and direction
  
+<img width="1680" alt="Screen Shot 2021-07-06 at 7 51 21 PM" src="https://user-images.githubusercontent.com/74681807/124797113-97b1e180-df5a-11eb-9528-ad8634887349.png">
+
+ih you click  back then return page control base again
+
+if click Home then go page home 
+<img width="1680" alt="Screen Shot 2021-07-06 at 7 52 09 PM" src="https://user-images.githubusercontent.com/74681807/124797673-32aabb80-df5b-11eb-982e-2a457fa6db67.png">
+
+if choice the control arm then go page control arm
+
+<img width="1680" alt="Screen Shot 2021-07-06 at 7 50 04 PM" src="https://user-images.githubusercontent.com/74681807/124797763-5241e400-df5b-11eb-9020-2b28078d5896.png">
+
+ if you want go page control base quickly click it in down 
+
 
