@@ -22,3 +22,15 @@ after register or log in go this page
 
 must click home from button or navbar then go the home page 
 
+<img width="1680" alt="Screen Shot 2021-07-06 at 7 52 09 PM" src="https://user-images.githubusercontent.com/74681807/124638548-bef1ab80-de93-11eb-8905-c1815f1e4567.png">
+this page has four buttons If You Want Connect the control base
+ Click Control base 
+ 
+ then go control base page to move any direction or stop 
+ 
+ <img width="1680" alt="Screen Shot 2021-07-06 at 7 49 19 PM" src="https://user-images.githubusercontent.com/74681807/124638811-13952680-de94-11eb-98da-69ab0dd4b178.png">
+ 
+ if click any direction for example (click Backword then the base move and 
+ 
+ 
+
